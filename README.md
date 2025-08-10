@@ -31,7 +31,7 @@ The Fashion MNIST dataset contains:
 ## 🖼 Sample Validation Images
 Below are the **first three images** from the validation dataset:
 
-![Validation Images](images/validation_samples.png)
+![Validation Samples](validation_samples.png)
 
 ---
 
@@ -47,11 +47,14 @@ Epochs: **10**
 
 ---
 
+
 ## 📊 Training Results
 During training, the **loss decreased steadily** and the **accuracy increased** above 85%, peaking around **92%**.
 
-![Training Loss and Accuracy](images/loss_accuracy.png)
-
+**Cost vs Epochs:**
+![Cost Plot](cost_plot.png)
+**Accuracy vs Epochs:**
+![Accuracy Plot](accuracy_plot_.png)
 ---
 
 ## 🚀 How to Run
